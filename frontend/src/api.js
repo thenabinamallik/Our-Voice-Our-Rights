@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "https://our-voice-our-rights.onrender.com/api";
+const BASE_URL = "https://our-voice-our-rights.onrender.com/";
 
 // Get list of districts
 export const getDistricts = async () => {
